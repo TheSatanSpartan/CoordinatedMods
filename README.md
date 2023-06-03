@@ -9,7 +9,7 @@ in order to simplify onboarding and progress of modders and random talented prog
 1. explore and determine the respective architectures and patterns
 2. produce meaningfull information on the inner workings
 3. speculate the direction to bidirectionally improve mod pairs
-4. brownfield approach, describe feature flag and configurability 
+4. brownfield approach, describe specifics for feature flags and configurability too.
 5. As soon a pattern emerge describe the possible standard that a \*number\* of mods can adopt.
 Example: Epic Fight rendering model sophistication make it a good candidate for a standard to share across mods that work on player/mob models,
 so an effective explaination will be necessary to make easier to implement this standard in other mods.  
