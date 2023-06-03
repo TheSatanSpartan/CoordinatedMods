@@ -6,23 +6,25 @@ in order to simplify onboarding and progress of modders and random talented prog
 
 ### Current scope:
 
-1. explore and determine the structures and patters 
+1. explore and determine the respective architectures and patterns
 2. produce meaningfull information on the inner workings
 3. speculate the direction to bidirectionally improve mod pairs
 4. brownfield approach, describe feature flag and configurability 
 5. As soon a pattern emerge describe the possible standard that a \*number\* of mods can adopt.
-Example: Epic Fight rendering model sophistication make it a good candidate for a standard to share across mods that work on player/mob models   
+Example: Epic Fight rendering model sophistication make it a good candidate for a standard to share across mods that work on player/mob models,
+so an effective explaination will be necessary to make easier to implement this standard in other mods.  
 
 Cross-impollination -> Standardization -> Merge 
 - Menpower mods:
-  - Villager Guards, Recruits, Workers, Overlord 2, Human enemies , Human companions, Minecraft comes alive, minecolony
+  - Villager Guards,Villager Recruits,Villager Workers, Overlord 2, Hostile Humans , Human companions, Minecraft comes alive, minecolony
 - Firearms and movement:
   - Epic Fight, Crayfish guns, Musket, Parcool 
 - Civilization structures generation
   - Lost Cities, ChoiceTheorem's Overhauled Village, Better Villages, Unstructured, Houses 
 - Challenging Mob AI
   - Improved Mobs, Nightmare Epic Siege
-
+- Transport 
+  - ViesCraft Machines, Ultimate Car,  Simple Planes, Immersive Aircraft, Ultimate Plane 
 
 Compatibilities:
 - Immersive portals , Valkyrie Skies 2 ( Clockwork )
