@@ -20,7 +20,7 @@ Cross-impollination -> Standardization -> Merge
 - Firearms and movement:
   - Epic Fight, Crayfish guns, Musket, Parcool 
 - Civilization structures generation
-  - Lost Cities, ChoiceTheorem's Overhauled Village, Better Villages, Unstructured, Houses 
+  - Lost Cities, minecolony, ChoiceTheorem's Overhauled Village, Better Villages, Unstructured, Houses 
 - Challenging Mob AI
   - Improved Mobs, Nightmare Epic Siege
 - Transport 
